@@ -3,6 +3,7 @@
 <h3 align="center">A passionate software developer from Istanbul</h3>
 
 - 🌱 I’m currently learning **React, Angular, Vue, ReactNative**
+-  I use daily: `.Js`, `.HTML`, `.CSS`, `.Reactjs`, `.C#`, `.Asp.Net`, `.Netcore`, `.Webapi` 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
