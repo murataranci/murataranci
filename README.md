@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murataranci&show_icons=true&theme=dark&title_color=ffff00&text_color=ff8000&locale=en" alt="murataranci" /></p>
 
-![Visitor Count](https://profile-counter.glitch.me/cagdasaydemir/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/murataranci/count.svg)
