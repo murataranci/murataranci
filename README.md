@@ -1,5 +1,5 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-<h1 align="center">Hi 👋, I'm Murat</h1>
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Murat</h1>
 <h3 align="center">A passionate software developer from Istanbul</h3>
 
 - 🌱 I’m currently learning **React, Angular, Vue, ReactNative**
